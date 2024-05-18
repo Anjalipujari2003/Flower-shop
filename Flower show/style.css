@@ -1,0 +1,36 @@
+.navbar{
+    height: 30px;
+    width: 600px;
+    background-color: white;
+    border-color: white;
+    position: absolute;
+    top:6px;
+    margin-left: 700px;
+
+}
+body{
+    background-image: url(front.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.n{
+    background-color: white;
+    height: auto;
+    width: auto;
+    display: inline-block;
+    color: black;
+    font-size: 20px;
+    margin-left: 50px;
+
+}
+.logo{
+    position: relative;
+    top:0px;
+    font-size: 30px;
+    text-align:left;
+    text-shadow: 2px 0px rgb(239, 10, 48);
+    height: 50px;
+    width: 1350;
+    background-color: white;
+    border-color: white;
+}
